@@ -1,0 +1,18 @@
+group1:
+  - name: hostname1
+    hostname: hostname1.example.com
+    port: 22
+    username: username1
+  - name: hostname2
+    hostname: hostname2.example.com
+    port: 22
+    username: username2
+group2:
+  - name: hostname3
+    hostname: hostname3.example.com
+    port: 22
+    username: username3
+  - name: hostname4
+    hostname: hostname4.example.com
+    port: 22
+    username: username4

@@ -1,4 +1,4 @@
-# SSH Terminal Session Manager with Groups Support
+# SSH Terminal Session Manager with Group Support
 
 
 This Python code uses the PyInquirer library to create an interactive menu that allows users to select a host from a YAML file containing host information. Once a host is selected, the code uses the Paramiko library to establish an SSH connection to the host and start a terminal session.
